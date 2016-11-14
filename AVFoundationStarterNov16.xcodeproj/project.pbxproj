@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					7C5E6D3D1DDA280D00C3884A = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 8ZEN5823YK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,11 +259,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8ZEN5823YK;
 				INFOPLIST_FILE = AVFoundationStarterNov16/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Ketul-Patel.AVFoundationStarterNov16";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -270,11 +272,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8ZEN5823YK;
 				INFOPLIST_FILE = AVFoundationStarterNov16/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Ketul-Patel.AVFoundationStarterNov16";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
